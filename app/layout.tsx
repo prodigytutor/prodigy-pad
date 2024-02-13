@@ -9,19 +9,19 @@ import { EdgeStoreProvider } from "@/lib/edgestore";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Notion Clone",
+  title: "ProdigyPad",
   description: "All-in-one workspace for you and your team.",
   icons: {
     icon: [
       {
         media: "(prefers-color-schema: light)",
-        url: "/notion.svg",
-        href: "/notion.svg",
+        url: "/prodigy-pad.svg",
+        href: "/prodigy-pad.svg",
       },
       {
         media: "(prefers-color-schema: dark)",
-        url: "/notion.svg",
-        href: "/notion.svg",
+        url: "/prodigy-pad.svg",
+        href: "/prodigy-pad.svg",
       },
     ],
   },
@@ -42,7 +42,7 @@ export default function RootLayout({
               defaultTheme="system"
               enableSystem
               disableTransitionOnChange
-              storageKey="notion-theme-2"
+              storageKey="prodigy-pad-theme-2"
             >
               <Toaster position="top-center" />
               <ModalProvider />

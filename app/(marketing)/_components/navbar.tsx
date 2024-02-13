@@ -31,14 +31,14 @@ const Navbar = () => {
               <Button size="sm">Login</Button>
             </SignInButton>
             <SignInButton mode="modal">
-              <Button size="sm">Get Notion free</Button>
+              <Button size="sm">Get ProdigyPad free</Button>
             </SignInButton>
           </>
         )}
         {isAuthenticated && !isLoading && (
           <>
             <Button variant="ghost" size="sm" asChild>
-              <Link href="/documents">Enter Notion</Link>
+              <Link href="/documents">Enter ProdigyPad</Link>
             </Button>
             <UserButton afterSignOutUrl="/" />
           </>

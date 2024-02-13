@@ -1,11 +1,11 @@
-# Notion Clone
+# prodigy-pad 
 ## Deploy Link: https://note-cyan.vercel.app/
 
 ## Overview
 
-Welcome to the Notion Clone project, a connected workspace where your ideas, documents, and plans come together for better, faster work. This project aims to replicate the functionalities of Notion using a modern tech stack.
+Welcome to the prodigy-pad Clone project, a connected workspace where your ideas, documents, and plans come together for better, faster work. This project aims to replicate the functionalities of prodigy-pad using a modern tech stack.
 
-![Screenshot Capture - 2023-12-28 - 13-32-15](https://github.com/JyotiranjanGhibila/notion-clone/assets/107979908/b43f8c93-6590-4c25-82e3-52b1b2aaa17e)
+![Screenshot Capture - 2023-12-28 - 13-32-15](https://github.com/JyotiranjanGhibila/prodigy-pad/assets/107979908/b43f8c93-6590-4c25-82e3-52b1b2aaa17e)
 
 ## Features
 
@@ -13,21 +13,21 @@ Welcome to the Notion Clone project, a connected workspace where your ideas, doc
 - **Rich Text Editing:** Create content with a variety of formatting options.
 - **Flexible Organization:** Customize and organize your workspace to suit your needs.
 
-![Screenshot Capture - 2023-12-28 - 13-33-58](https://github.com/JyotiranjanGhibila/notion-clone/assets/107979908/76781cbc-0eae-4811-b03f-85c76364ea4c)
+![Screenshot Capture - 2023-12-28 - 13-33-58](https://github.com/JyotiranjanGhibila/prodigy-pad/assets/107979908/76781cbc-0eae-4811-b03f-85c76364ea4c)
 
 ## User Authentication
 
 - **GitHub and Google Login:** Securely log in using your GitHub or Google account.
 - **User Avatar:** Display the user's avatar in the navbar upon successful login.
-![Screenshot Capture - 2023-12-28 - 13-33-20](https://github.com/JyotiranjanGhibila/notion-clone/assets/107979908/db765ba6-4ada-4887-bb17-9350a0986a2a)
+![Screenshot Capture - 2023-12-28 - 13-33-20](https://github.com/JyotiranjanGhibila/prodigy-pad/assets/107979908/db765ba6-4ada-4887-bb17-9350a0986a2a)
 ## Workspace
 
-- **Private Route:** Access the `enterNotion` route for a private workspace after login.
+- **Private Route:** Access the `enterprodigy-pad` route for a private workspace after login.
 - **Search:** Easily find notes and documents using the search functionality.
 - **Add Note:** Create new notes with dynamic nested structures.
 - **User Settings:** Customize your workspace settings as needed.
 - **Trash Page:** Safely delete and restore notes from the trash.
-![Screenshot Capture - 2023-12-28 - 13-34-32](https://github.com/JyotiranjanGhibila/notion-clone/assets/107979908/9820e04c-cdea-4e06-973d-ba31f5cf753a)
+![Screenshot Capture - 2023-12-28 - 13-34-32](https://github.com/JyotiranjanGhibila/prodigy-pad/assets/107979908/9820e04c-cdea-4e06-973d-ba31f5cf753a)
 
 ## Note Creation
 

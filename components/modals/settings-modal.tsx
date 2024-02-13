@@ -17,7 +17,7 @@ export const SettingsModal = () => {
         <div className="flex items-center justify-between">
           <div className="flex flex-col gap-y-1">
             <Label>Appearance</Label>
-            <span className="text-[0.8rem] text-muted-foreground">Customize how Notion lookgs on your device</span>
+            <span className="text-[0.8rem] text-muted-foreground">Customize how ProdigyPad lookgs on your device</span>
           </div>
           <ModeToggle/>
         </div>
